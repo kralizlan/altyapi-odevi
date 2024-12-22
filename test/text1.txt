@@ -1,0 +1,5 @@
+sudo systemctl status directory_monitor.service
+echo 
+rm 
+cat 
+python3
